@@ -1,1 +1,1 @@
-AKu orang gila
+im mzkyzak
