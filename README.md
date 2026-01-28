@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm mzkyzak</h1>
-<h3 align="center">RPL Student • Web & Android Developer • Gamer</h3>
+<h3 align="center">RPL Student & Progammer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=0e75b6&style=flat" />
