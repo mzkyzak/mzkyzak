@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm mzkyzak</h1>
+Repository aligncenter">👋 Hi, I'm mzkyzak</h1>
 <h3 align="center">RPL Student • Gamer</h3>
 
 <p align="center">
