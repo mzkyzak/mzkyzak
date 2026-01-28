@@ -36,12 +36,6 @@
   <a href="https://www.linkedin.com/in/taufiq-ikhsan-muzaky-42ab26388">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.tiktok.com/@USERNAME_TIKTOK">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@USERNAME_YOUTUBE">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
 </p>
 
 ---
