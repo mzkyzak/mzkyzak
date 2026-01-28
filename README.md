@@ -1,5 +1,7 @@
-Repository aligncenter">👋 Hi, I'm mzkyzak</h1>
-<h3 align="center">RPL Student • Gamer</h3>
+<h1 align="center">👋 Hi, I'm mzkyzak</h1>
+<p align="center">
+  <strong>RPL Student</strong> • <strong>Gamer</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -19,10 +21,14 @@ Repository aligncenter">👋 Hi, I'm mzkyzak</h1>
   <img src="https://skillicons.dev/icons?i=figma,ps,lightroom" />
 </p>
 
+---
+
 ## 💻 System Operation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali," />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" />
 </p>
+
+---
 
 ## 🌐 Social Media
 <p align="left">
@@ -33,6 +39,8 @@ Repository aligncenter">👋 Hi, I'm mzkyzak</h1>
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+---
 
 ## 📊 GitHub Overview
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzkyzak&theme=github_dark" />
@@ -45,12 +53,14 @@ Repository aligncenter">👋 Hi, I'm mzkyzak</h1>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mzkyzak&theme=tokyonight" />
 </p>
 
-## 🧩 Top Languages by Repo
+---
+
+## 🧩 Top Languages by Repository
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🚀 About Me
-- 🎓 RPL Student
-- 🧑‍💻 Web & Android & game
-- 🎮 Progammer*
+- 🎓 Student (RPL)
+- 🧑‍💻 Interested in Web, Android, and Game Development
+- 🎮 Progammer
