@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm mzkyzak</h1>
-<h3 align="center">RPL Student & Progammer </h3>
+<h3 align="center">RPL Student • Web & Android Developer • Gamer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -30,17 +30,17 @@
 
 ## 🌐 Social Media
 <p align="left">
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://www.instagram.com/mzky_zak?igsh=eWN2cjlzeXhuMmR0">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/taufiq-ikhsan-muzaky-42ab26388">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://www.tiktok.com/@USERNAME_TIKTOK">
+    <img src="https://skillicons.dev/icons?i=tiktok" />
   </a>
-  <a href="https://discord.gg/INVITELINK">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://www.youtube.com/@USERNAME_YOUTUBE">
+    <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
 
