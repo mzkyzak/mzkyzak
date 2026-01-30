@@ -60,7 +60,8 @@
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&theme=tokyonight" />
 </p>
+
 ## 🚀 About Me
-- 🎓 Student (RPL)
-- 🧑‍💻 Interested in Web, Android, and Game Development
-- 🎮 Progammer
+ - 🎓 Student (RPL)
+ - 🧑‍💻 website Android games
+ - 🎮 Progammer
