@@ -42,24 +42,24 @@
 
 ---
 
+---
+
 ## 📊 GitHub Overview
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzkyzak&theme=github_dark" />
 
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mzkyzak&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mzkyzak&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mzkyzak&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 🧩 Top Languages by Repository
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&theme=tokyonight" />
-
----
-
+## 🧩 Top Languages
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&theme=tokyonight" />
+</p>
 ## 🚀 About Me
 - 🎓 Student (RPL)
 - 🧑‍💻 Interested in Web, Android, and Game Development
