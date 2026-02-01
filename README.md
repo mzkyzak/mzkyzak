@@ -17,6 +17,9 @@
 ---
 
 ## 🎨 Design Graphic Tools
+
+![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,lightroom" />
 </p>
@@ -49,10 +52,10 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzkyzak&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=@mzkyzak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=@mzkyzak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=@mzkyzak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
