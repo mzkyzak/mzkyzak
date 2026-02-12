@@ -45,40 +45,55 @@
 
 ---
 
----
-## 📊 GitHub Overview
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzkyzak&theme=algolia" />
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" 
+             src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzkyzak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" 
+             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&langs_count=8&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
-## 📈 Development Statistics
+<!-- STREAK -->
+<h2 align="center">🔥 Contribution Streak</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mzkyzak&theme=tokyonight" />
+</div>
+
+<br/>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">📈 Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzkyzak&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<h2 align="center">🏅 Achievements</h2>
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzkyzak&theme=algolia" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mzkyzak&theme=algolia" />
+  <img src="https://img.shields.io/badge/Grade-A%2B-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzkyzak&theme=algolia" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mzkyzak&theme=algolia&utcOffset=8" />
-</p>
-
-<!-- Optional Section -->
-<!--
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=mzkyzak&theme=algolia&margin-w=10)
--->
-
-<!--
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=mzkyzak&theme=algolia)
--->
+<br/>
 
 
-
-## 🧩 Top Languages
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🚀 About Me
  - 🎓 Student (RPL)
