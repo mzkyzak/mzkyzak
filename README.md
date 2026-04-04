@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,androidstudio,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,androidstudio,javascript" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,lightroom" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,unitylightroom" />
 </p>
 
 ---
