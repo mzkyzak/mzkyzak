@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,androidstudio,javascript,java,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,androidstudio,javascript,java,react,tailwind,dart" />
 </p>
 
 ---
