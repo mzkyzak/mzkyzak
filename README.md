@@ -52,14 +52,10 @@
 ---
 
 ## 🌐 Social Media
-<p align="left">
-  <a href="https://www.instagram.com/mzky_zak">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/taufiq-ikhsan-muzaky-42ab26388">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
+| LinkedIn | WhatsApp | Instagram | TikTok | YouTube |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.linkedin.com/in/taufiq-ikhsan-muzaky-42ab26388"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a> | <a href="https://wa.me/6285810192529"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" alt="WhatsApp"/></a> | <a href="https://www.instagram.com/mzky_zak?igsh=eWN2cjlzeXhuMmR0"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram"/></a> | <a href="https://www.tiktok.com/@mzky896?_r=1&_t=ZS-94NhHqsvv1R"><img src="./public/tiktok.svg" width="40" height="40" alt="TikTok"/></a> | <a href="https://youtube.com/@muzaky_2023?si=oe32_JqtG5jXNakL"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="40" height="40" alt="YouTube"/></a> |
 
 ---
 
