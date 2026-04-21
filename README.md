@@ -40,7 +40,7 @@
 
 ---
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 | Windows | Android | Ubuntu | Linux |
 | :---: | :---: | :---: | :---: |
