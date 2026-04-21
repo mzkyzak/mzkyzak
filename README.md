@@ -9,27 +9,45 @@
 
 ---
 
-## 👨🏻‍💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,androidstudio,javascript,java,react,tailwind,dart" />
-</p>
+## 👨🏻‍💻 Programming Languages & Tools
+
+| HTML | CSS | JavaScript | React | Tailwind |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> |
+
+<br>
+
+| PHP | MySQL | Android Studio | Sketchware | VS Code |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /> | <img src="./public/sketchware.jpg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" /> |
 
 ---
 
-## 🎨 Design Graphic Tools
+### 🎨 Design Graphic Tools
 
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
+| Figma | Unity | Canva | Lightroom | CapCut |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg" width="40" height="40" /> |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,unity,lightroom" />
-</p>
+
+
+
+
+
+
+
+
 
 ---
 
-## 💻 System Operation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" />
-</p>
+### Operating Systems
+
+| Windows | Android | Ubuntu | Linux |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> |
+
+
+
 
 ---
 
