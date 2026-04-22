@@ -1,13 +1,15 @@
-<h1 align="center">👋 Hi, I'm mzkyzak</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi,+I'm+mzkyzak;%F0%9F%91%8B+Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 <p align="center">
   <strong>RPL Student</strong> • <strong>Gamer</strong>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
 ## 👨🏻‍💻 Programming Languages & Tools
 
 | HTML | CSS | JavaScript | PHP | Dart | Java |
@@ -18,7 +20,7 @@
 
 | MySQL | Android Studio | React | VS Code | Flutter | Sketchware |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" /> | <img src="https://avatars.githubusercontent.com/u/32049931?s=200&v=4" width="40" height="40" style="border-radius: 8px;" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" /> | <img src="./public/sketchware.jpg" width="40" height="40" style="border-radius: 8px;" /> |
 
 ---
 
