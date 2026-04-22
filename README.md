@@ -5,7 +5,7 @@
   <strong>RPL Student</strong> • <strong>Gamer</strong>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mzkyzak&label=Profile%20Views&color=00FF00&style=flat" />
 </p>
 
 ---
@@ -30,15 +30,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg" width="40" height="40" /> |
 
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🖥️ Operating Systems
@@ -46,9 +37,6 @@
 | Windows | Android | Ubuntu | Linux |
 | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> |
-
-
-
 
 ---
 
@@ -67,11 +55,11 @@
     <tr>
       <td>
         <img height="180em" 
-             src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzkyzak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+             src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzkyzak&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&border_color=00FF00"/>
       </td>
       <td>
         <img height="180em" 
-             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&langs_count=8&theme=tokyonight"/>
+             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&langs_count=8&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&border_color=00FF00"/>
       </td>
     </tr>
   </table>
@@ -81,34 +69,30 @@
 
 ---
 
-<!-- STREAK -->
 <h2 align="center">🔥 Contribution Streak</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mzkyzak&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mzkyzak&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 <h2 align="center">📈 Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzkyzak&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzkyzak&bg_color=0D1117&color=FFFFFF&line=00FF00&point=00FF00&hide_border=true&title_color=00FF00" width="100%"/>
 </div>
 
 ---
 
 <h2 align="center">🏅 Achievements</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Grade-A%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grade-A%2B-00FF00?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Backend-Development-00FF00?style=for-the-badge&logo=gnubash&logoColor=00FF00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-00FF00?style=for-the-badge&logo=flutter&logoColor=00FF00&labelColor=0D1117" />
 </p>
 
 <br/>
-
-
 
 ## 🚀 About Me
  - 🎓 Student (RPL)
