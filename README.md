@@ -34,9 +34,14 @@
 
 ### 🎨 Design Graphic Tools
 
-| Figma | Unity | Canva | Lightroom | CapCut |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" /> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg" width="40" height="40" /> |
+| Figma | Unity | Canva | Lightroom |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" /> | <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40" /> |
+
+| CapCut | Google Stitch | Blender | After Effects |
+| :---: | :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Capcut-icon.svg" width="40" height="40" /> | <img src="./public/google-stitch.png" width="40" height="40" style="border-radius: 8px;" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40" /> |
+
 
 ---
 
