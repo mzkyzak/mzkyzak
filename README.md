@@ -10,7 +10,7 @@
 
 ---
 
-## 👨🏻‍💻 Programming Languages & Tools
+## 👨🏻‍💻 Programming Languages & Tools (AI)
 
 
 | HTML | CSS | Tailwind | JavaScript | PHP | Dart | XML | Python |
@@ -95,9 +95,9 @@
 
 <h2 align="center">🏅 Achievements</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Grade-A%2B-00FF00?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Backend-Development-00FF00?style=for-the-badge&logo=gnubash&logoColor=00FF00&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-00FF00?style=for-the-badge&logo=flutter&logoColor=00FF00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Frontend-Development-00FF00?style=for-the-badge&logo=react&logoColor=00FF00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Backend-Development-00FF00?style=for-the-badge&logo=php&logoColor=00FF00&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Mobile-Development-00FF00?style=for-the-badge&logo=flutter&logoColor=00FF00&labelColor=0D1117" />
 </p>
 
 <br/>
