@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%92%80+RANSOMWARE+ACTIVE;%F0%9F%92%80+CYBER+SECURITY;%F0%9F%92%80+MZKYZAK+CONTROL;%F0%9F%92%80+SYSTEM+LOCKED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi,+I'm+mzkyzak;%F0%9F%91%8B+Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <strong>🔐 Buat virus gas </strong> • <strong>💀 Cyber Security</strong> • <strong>🔥 Cyber Jahat</strong> • <strong>⚡ Mobile Exploit</strong>
 </p>
