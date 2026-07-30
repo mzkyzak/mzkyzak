@@ -64,16 +64,18 @@
 
 ---
 
-## 📊 **GitHub Statistics**
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzkyzak&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
+        <img height="180em" 
+             src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzkyzak&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
+        <img height="180em" 
+             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzkyzak&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
       </td>
     </tr>
   </table>
@@ -83,8 +85,7 @@
 
 ---
 
-## 🔥 **Contribution Streak**
-
+<h2 align="center">🔥 Contribution Streak</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mzkyzak&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
 </div>
@@ -93,29 +94,27 @@
 
 ---
 
-## 📈 **Activity Graph**
-
+<h2 align="center">📈 Activity Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzkyzak&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&hide_border=true&title_color=FF0000" width="100%"/>
 </div>
 
 ---
 
-## 🏅 **Achievements**
-
+<h2 align="center">🏅 Achievements</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Development-FF0000?style=for-the-badge&logo=react&logoColor=FF0000&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Backend-Development-FF0000?style=for-the-badge&logo=php&logoColor=FF0000&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Mobile-Development-FF0000?style=for-the-badge&logo=flutter&logoColor=FF0000&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Ransomware-Developer-FF0000?style=for-the-badge&logo=android&logoColor=FF0000&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Cyber-Security-FF0000?style=for-the-badge&logo=linux&logoColor=FF0000&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Mobile-Exploit-FF0000?style=for-the-badge&logo=kotlin&logoColor=FF0000&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Reverse-Engineering-FF0000?style=for-the-badge&logo=java&logoColor=FF0000&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=0D1117" />
 </p>
 
 ---
 
 ## 💀 **About Me**
 
-- 🎓 **Student (RPL)** — *Belajar Cyber Security & Exploit*  
+- 🎓 **Student (RPL)** — *Cyber Security & Exploit*  
 - 💀 **Ransomware Developer** — *Fokus di Mobile Ransomware*  
 - 🔐 **Cyber Security** — *Ethical Hacking & Penetration Testing*  
 - 🧠 **Reverse Engineering** — *Android APK Decompiler & Modder*  
