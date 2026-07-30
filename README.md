@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+mzkyzak;%F0%9F%91%8B+Welcome+to+my+Profile!;%F0%9F%94%A5+Malware+%26+Cyber+Sabotage;%F0%9F%92%80+System+Locked+%7C+mzkyzak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+mzkyzak;%F0%9F%91%8B+Welcome+to+my+Profile!;%F0%9F%94%A5+Malware+%26+Cyber+Sabotase;%F0%9F%92%80+System+Locked+%7C+mzkyzak" alt="Typing SVG" />
 </h1>
 <p align="center">
   <strong>🔐 Buatt virus gas </strong> • <strong>💀 Cyber Security</strong> • <strong>🔥 Cyber Jahat</strong> • <strong>⚡ Mobile Exploit</strong>
