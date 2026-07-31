@@ -114,9 +114,9 @@
 
 ## 💀 **About Me**
 
-- 🎓 **Student (RPL)** — *Cyber Security & Exploit*  
-- 💀 **Ransomware Developer** — *Fokus di Mobile Ransomware*  
-- 🔐 **Cyber Security** — *Ethical Hacking & Penetration Testing*  
+- 🎓 **Student (RPL)** — *web development Cyber Security & Exploit*  
+- 💀 **Ransomware Developer** — *Fokus di Mobile And website*  
+- 🔐 **Cyber Security** — *Keamanan_Cyber & danger Testing*  
 - 🧠 **Reverse Engineering** — *Android APK Decompiler & Modder*  
 - 📱 **Mobile Exploit** — *Flutter, Kotlin, Java, XML*  
 - 🎮 **Gamer & Hacker** — *Break everything, learn everything*  
