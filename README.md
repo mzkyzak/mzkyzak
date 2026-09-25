@@ -15,9 +15,6 @@
 
 ## 👨🏻‍💻 Programming Languages & Tools (AI)
 
-
-### 🛠️ Languages & Tools
-
 ### 🛠️ Languages & Tools
 
 | HTML | CSS | Tailwind | JavaScript | PHP | Dart | XML | Python | C++ | Rust |
